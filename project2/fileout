@@ -1,0 +1,7 @@
+total 40
+drwxrwxr-x 2 s12211639 s12211639  4096 Nov 12 16:36 dir1
+-rw-r--r-- 1 s12211639 s12211639     0 Nov 12 16:37 fileout
+-rw-rw-r-- 1 s12211639 s12211639   184 Nov 12 14:27 main.c
+-rwxrwxr-x 1 s12211639 s12211639 18064 Nov 12 16:36 smallsh
+-rw-rw-r-- 1 s12211639 s12211639  4344 Nov 12 16:36 smallsh.c
+-rw-rw-r-- 1 s12211639 s12211639   445 Nov 12 14:42 smallsh.h
